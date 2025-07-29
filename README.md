@@ -1,5 +1,4 @@
 # Multi-AI Chat Interface (ChatGPT, Gemini, Claude)
-
 This is a multi-AI chat interface built with **React** (frontend) and **Node.js** (backend), where users can interact with **ChatGPT**, **Gemini**, or **Claude** by clicking the corresponding buttons.
 
 ---
