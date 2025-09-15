@@ -12,7 +12,6 @@ This is a multi-AI chat interface built with **React** (frontend) and **Node.js*
 - 🧠 Built using React (frontend) and Node.js/Express (backend).
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Axios, Tailwind (optional), JSX
